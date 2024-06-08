@@ -1,0 +1,26 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is namaste react by Akshay Saini",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fazzyvirus/Namaste-React.git"
+  },
+  "keywords": [],
+  "author": "Faisal Jameel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fazzyvirus/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/Fazzyvirus/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
