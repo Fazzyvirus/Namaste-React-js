@@ -73,3 +73,9 @@ import Component from "path";
 - Named Export/Import
 export const Component;
 import {Component} from "path";
+
+# React Hooks
+ (Normal JS Utility Function)
+
+- useState() - Super powerful React Var in react
+- useEffect() - 
