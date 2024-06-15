@@ -39,8 +39,6 @@ const Body = () => {
           />
           <button
             onClick={() => {
-              // Filter the restaurant list and update the UI
-              // searchText
               const filteredRestaurant = listOfRestaurants.filter((res) =>
                 res.info.name.toLowerCase().includes(searchText.toLowerCase())
               );
